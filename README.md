@@ -1,3 +1,3 @@
 Hello! File modified.
 
-The python file when run will print the "Hello" to the screen.
+Run python file hello.py, prints """Hello, Python Code!""" to the screen.
